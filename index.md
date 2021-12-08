@@ -1,7 +1,16 @@
-Hello and welcome to *Linda's* blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my blog, where I'll report from the journey into Data Science and Machine Learning.
 
-![Image of fast.ai logo](images/logo.png)
+But... let's start with a proper introduction! I may not be the average Data Science newbee (but then again, who is?). To start with, I'm 53 years old. And originally, I'm an alpha: I loved learning languages. In highschool, I learned Dutch, English, German, French, Latin and some Ancient Greek. And as a side project, I taught myself Italian as a teenager. I even spent a summer holiday reading a "Sanskriet for Beginner's" book (for which I had to cycle 15 kilometers to the nearest University Library, because back then, no internet).\ 
+Of course, my dream was to become a novel writer some day. Don't we all?
 
-## This is a title
+So, after highschool, I choose to study Chinese. Tough, it was. Superb team spirit (no way to survive that without friends). Did something to my brain too: learning to speak and understand tones, and learning to read and write characters - it turned me into an image thinker.
+And then, two years into the study, something shifted. I realised that I knew so much about this foreign country, but so little about my own. I had serious gaps in my world knowledge. Didactics were awful; we were translating silly texts about stereotypical sweet Chinese girls and the glories of communism. Meanwhile, the Tiananmen Uprising showed me students of my age, as aspiring as I was, being mowed down by guns. It all just added.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+In 1989 I changed into Psychology and became a gamma. Nowadays, University studies are mix & match like the average bikini, but back then, it meant leaving a large part of your life behind and facing financial pressure to finish it all in exactly 4 years. Which turned out to be easy; after the hard work at Chinese, Psychology was a breeze. At least, until I graduated as a researcher in 1993. That generated a **lot** of stress. Let's just summarize it as a combination of red tape, faculty politics and hierarchy. Maybe the softer gamma studies not only attract serious students, but also big mouths?
+
+Well, somehow I made it to the finish line and started looking for a research job. Which turned out to be impossible. Back in the days, data was **very** expensive. Data was generated either through experiments where you had to recruit folks who did all kinds of tests in your lab, or you sent out questionnaires by postal mail, plus reminders, plus more reminders and eventually, you ended up making several phone calls to 90% of your respondents to try and talk them into please filling out the gd thing in order to get something that resembled a decent response rate.
+
+Out of the 21 top Psychology students that were allowed into the Research Master's, only 1 was accepted as PhD and 1 found a job at a research institute. The rest of us drifted off into commercial areas. In my case: recruitment, career counselling, HR management, assessments and solution-focused coaching. 
+Fast forward 20 years and I started to feel really exhausted which deteriorated over the years. Took us ten years to find out that I have sleep apnea. By then, the brain had taken a blow: memory and concentration were not functioning properly. I'm a firm believer in "use it or loose it", so I started to do whatever I could to keep my brain busy. From French verb conjugations to online courses. And that's how, one day in 2017, I came across something called Data Science.
+
+Over the years, as I learned to program and conduct machine learning, my brain improved and currently I'm doing the Master's Data Science at University of Amsterdam. Good thing the study alphabet is finished with the alpha, gamma and now beta under the belt, so Data Science it's going to remain.
