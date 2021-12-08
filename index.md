@@ -1,6 +1,6 @@
 Hello and welcome to my blog, where I'll report from the journey into Data Science and Machine Learning.
 
-But... let's start with a proper introduction! I may not be the average Data Science newbee (but then again, who is?). To start with, I'm 53 years old. And originally, I'm an alpha: I loved learning languages. In highschool, I learned Dutch, English, German, French, Latin and some Ancient Greek. And as a side project, I taught myself Italian as a teenager. I even spent a summer holiday reading a "Sanskriet for Beginner's" book (for which I had to cycle 15 kilometers to the nearest University Library, because back then, no internet).\ 
+But... let's start with a proper introduction! I may not be the average Data Science newbee (but then again, who is?). To start with, I'm 53 years old. And originally, I'm an alpha: I loved learning languages. In highschool, I learned Dutch, English, German, French, Latin and some Ancient Greek. And as a side project, I taught myself Italian as a teenager. I even spent a summer holiday reading a "Sanskrit for Beginner's" book (for which I had to cycle 15 kilometers to the nearest University Library, because back then, no internet).\ 
 Of course, my dream was to become a novel writer some day. Don't we all?
 
 So, after highschool, I choose to study Chinese. Tough, it was. Superb team spirit (no way to survive that without friends). Did something to my brain too: learning to speak and understand tones, and learning to read and write characters - it turned me into an image thinker.
